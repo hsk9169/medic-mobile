@@ -2,7 +2,7 @@
 
 ## 디자인 와이어프레임
 - https://www.canva.com/design/DAFqH-BvZgY/mxZ9gW5vN38fTd73T25-GQ/edit
-- https://www.figma.com/file/IvIen3BallZiIHx8kibMKf/UXUI-%EA%B8%B0%ED%9A%8D%EC%95%88?type=design&node-id=0-1&mode=design&t=KJVTRYMUhclVQQl6-0
+- https://www.figma.com/file/OEpCZkdfGpkTtsU6IR0tKH/UI%EB%94%94%EC%9E%90%EC%9D%B8(%EA%B3%B5%EC%9C%A0%EC%9A%A9)?type=design&node-id=80-6136&mode=design&t=6dBfvGiwS1fOKzij-0
 
 ## 이미지 색감 조절
 ### 기능
